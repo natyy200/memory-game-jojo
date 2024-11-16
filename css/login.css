@@ -1,5 +1,5 @@
 .login-form {
-    background-color: #be81a0;
+    background-color: #a1502f;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -37,7 +37,7 @@
 }
 
 .login__button {
-    background-color: #c8638d;
+    background-color: #6e2a19;
     border: 3px solid #28272f;
     border-radius: 8px;
     color: #fff;
